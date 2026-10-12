@@ -1,0 +1,6 @@
+{
+  "name": "Top10 - Curated Directory of Ranked Tools & Websites",
+  "description": "Discover the best tools and websites ranked in curated Top 10 lists across AI, productivity, developer tech, education, and design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
